@@ -1,2 +1,3 @@
- this tha github learning session
+ this the github learning session
  press ctrl+s 
+add tha new line
